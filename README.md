@@ -1,5 +1,5 @@
 # Project Title
-*Hello World Example Project*
+*Hello World Example Project* 😃
 # Description
 This project is for learning how to use GitHub repositories and formatting. 
 # How to Run Program
@@ -9,4 +9,5 @@ This project is for learning how to use GitHub repositories and formatting.
 # Additional Documentation
 **no additional documentation was used**
 # Versioning
-n/a
+n/a [^1]
+[^1]: Additional version update logs will go here. 
